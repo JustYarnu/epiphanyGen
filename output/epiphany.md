@@ -1,9 +1,9 @@
-# File:Right Masakaki at Isonokami Shrine.jpg
+# File:Harappa 13 grey stone male dancer statuette.jpg
 
-![File:Right Masakaki at Isonokami Shrine.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5e/Right_Masakaki_at_Isonokami_Shrine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![File:Harappa 13 grey stone male dancer statuette.jpg](https://upload.wikimedia.org/wikipedia/commons/d/dd/Harappa_13_grey_stone_male_dancer_statuette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Artist:** <a href="//commons.wikimedia.org/wiki/User:Immanuelle" title="User:Immanuelle">Immanuelle</a>  
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)  
-**Source:** [File:Right Masakaki at Isonokami Shrine.jpg](1.2)  
+**Artist:** Gary Todd  
+**License:** [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)  
+**Source:** [File:Harappa 13 grey stone male dancer statuette.jpg](1.2)  
 **Search keywords:** random Wikimedia Commons
 
