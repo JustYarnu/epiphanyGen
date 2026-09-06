@@ -17,4 +17,4 @@ output_resolution :
 font_path : C:\Windows\Fonts\impact.ttf
 pixel_block_size : 5
 noise_amount : 18
-output_path : output\epiphany.png
+output_path : output/epiphany.png
