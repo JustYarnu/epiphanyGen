@@ -151,13 +151,20 @@ def invert_luminosity(image: Image.Image) -> Image.Image:
 
 
 def _load_font(font_path: str | Path, size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
-	try:
-		return ImageFont.truetype(str(font_path), size)
-	except OSError:
-		fallback = Path(__file__).with_name("DejaVuSans-Bold.ttf")
-		if fallback.exists():
-			return ImageFont.truetype(str(fallback), size)
-		return ImageFont.load_default()
+	font_candidates = [
+		Path(font_path),
+		Path(__file__).with_name("DejaVuSans-Bold.ttf"),
+		Path("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"),
+		Path("/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf"),
+		Path("/System/Library/Fonts/Supplemental/Arial Bold.ttf"),
+		Path("/Library/Fonts/Arial Bold.ttf"),
+	]
+	for candidate in font_candidates:
+		try:
+			return ImageFont.truetype(str(candidate), size)
+		except OSError:
+			continue
+	return ImageFont.load_default(size=size)
 
 
 def _wrap_caption(draw: ImageDraw.ImageDraw, caption: str, font: ImageFont.ImageFont, max_width: int) -> str:
