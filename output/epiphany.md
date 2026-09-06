@@ -1,9 +1,9 @@
-# File:Peter Lenk Laubebrunnen Konstanz-12.jpg
+# File:Nakba 77 - Free Palestine demonstration - 149.jpg
 
-![File:Peter Lenk Laubebrunnen Konstanz-12.jpg](https://upload.wikimedia.org/wikipedia/commons/2/20/Peter_Lenk_Laubebrunnen_Konstanz-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![File:Nakba 77 - Free Palestine demonstration - 149.jpg](https://upload.wikimedia.org/wikipedia/commons/8/81/Nakba_77_-_Free_Palestine_demonstration_-_149.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Artist:** <a href="//commons.wikimedia.org/wiki/User:Rufus46" title="User:Rufus46">Rufus46</a>  
-**License:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)  
-**Source:** [File:Peter Lenk Laubebrunnen Konstanz-12.jpg](1.2)  
+**Artist:** Revolutionary Communist Party  
+**License:** [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)  
+**Source:** [File:Nakba 77 - Free Palestine demonstration - 149.jpg](1.2)  
 **Search keywords:** random Wikimedia Commons
 
