@@ -1,0 +1,20 @@
+permitted_domains : 
+  - ethical
+  - political
+  - social
+  - philosophical
+abstraction_budget : 0.65
+abstraction_allocation : contrast
+fully_random : true
+image_keywords :
+  - old
+  - space
+  - abstract
+image_api_endpoint : https://commons.wikimedia.org/w/api.php
+output_resolution :
+  width : 1080
+  height : 1080
+font_path : C:\Windows\Fonts\impact.ttf
+pixel_block_size : 5
+noise_amount : 18
+output_path : output\epiphany.png

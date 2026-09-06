@@ -1,0 +1,242 @@
+[
+  {
+    "name": "subject_verb_object",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"},
+      {"name": "object", "pos": "noun"}
+    ],
+    "tokens": ["The ", "{subject}", " ", "{verb_3sg}", " the ", "{object}", "."],
+    "bonus": 0.08
+  },
+  {
+    "name": "adjective_subject_verb",
+    "slots": [
+      {"name": "adjective", "pos": "adjective"},
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["The ", "{adjective}", " ", "{subject}", " ", "{verb_3sg}", "."],
+    "bonus": 0.04
+  },
+  {
+    "name": "subject_is_adjective",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "adjective", "pos": "adjective"}
+    ],
+    "tokens": ["The ", "{subject}", " is ", "{adjective}", "."],
+    "bonus": 0.0
+  },
+  {
+    "name": "subject_verb_adverb",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"},
+      {"name": "adverb", "pos": "adverb"}
+    ],
+    "tokens": ["The ", "{subject}", " ", "{verb_3sg}", " ", "{adverb}", "."],
+    "bonus": 0.04
+  },
+  {
+    "name": "why_does_subject_verb",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["Why does the ", "{subject}", " ", "{verb}", "?"],
+    "bonus": 0.02
+  },
+  {
+    "name": "subject_verb_object_adjective",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"},
+      {"name": "object", "pos": "noun"},
+      {"name": "adjective", "pos": "adjective"}
+    ],
+    "tokens": ["The ", "{subject}", " ", "{verb_3sg}", " the ", "{adjective}", " ", "{object}", "."],
+    "bonus": 0.05
+  },
+  {
+    "name": "adjective_subject_verb_object",
+    "slots": [
+      {"name": "adjective", "pos": "adjective"},
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"},
+      {"name": "object", "pos": "noun"}
+    ],
+    "tokens": ["The ", "{adjective}", " ", "{subject}", " ", "{verb_3sg}", " the ", "{object}", "."],
+    "bonus": 0.05
+  },
+  {
+    "name": "subject_will_verb",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["The ", "{subject}", " will ", "{verb}", "."],
+    "bonus": 0.03
+  },
+  {
+    "name": "subject_cannot_verb",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["The ", "{subject}", " cannot ", "{verb}", "."],
+    "bonus": 0.03
+  },
+  {
+    "name": "subject_may_verb_object",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"},
+      {"name": "object", "pos": "noun"}
+    ],
+    "tokens": ["The ", "{subject}", " may ", "{verb}", " the ", "{object}", "."],
+    "bonus": 0.04
+  },
+  {
+    "name": "subject_never_verb",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["The ", "{subject}", " never ", "{verb}", "."],
+    "bonus": 0.03
+  },
+  {
+    "name": "subject_always_verb",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["The ", "{subject}", " always ", "{verb}", "."],
+    "bonus": 0.03
+  },
+  {
+    "name": "subject_verb_adverbly",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"},
+      {"name": "adverb", "pos": "adverb"}
+    ],
+    "tokens": ["The ", "{subject}", " ", "{verb_3sg}", " ", "{adverb}", "."],
+    "bonus": 0.04
+  },
+  {
+    "name": "adverb_subject_verb",
+    "slots": [
+      {"name": "adverb", "pos": "adverb"},
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["Perhaps the ", "{subject}", " ", "{verb_3sg}", " ", "{adverb}", "."],
+    "bonus": 0.02
+  },
+  {
+    "name": "subject_is_adjective_today",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "adjective", "pos": "adjective"}
+    ],
+    "tokens": ["The ", "{subject}", " is ", "{adjective}", " today."],
+    "bonus": 0.02
+  },
+  {
+    "name": "subject_becomes_adjective",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"},
+      {"name": "adjective", "pos": "adjective"}
+    ],
+    "tokens": ["The ", "{subject}", " ", "{verb_3sg}", " ", "{adjective}", "."],
+    "bonus": 0.04
+  },
+  {
+    "name": "the_adjective_of_subject",
+    "slots": [
+      {"name": "adjective", "pos": "adjective"},
+      {"name": "subject", "pos": "noun"}
+    ],
+    "tokens": ["The ", "{adjective}", " of the ", "{subject}", " remains."],
+    "bonus": 0.02
+  },
+  {
+    "name": "subject_and_subject_verb",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "object", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["The ", "{subject}", " and the ", "{object}", " ", "{verb_3sg}", "."],
+    "bonus": 0.04
+  },
+  {
+    "name": "subject_verb_because_object",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"},
+      {"name": "object", "pos": "noun"}
+    ],
+    "tokens": ["The ", "{subject}", " ", "{verb_3sg}", " because of the ", "{object}", "."],
+    "bonus": 0.04
+  },
+  {
+    "name": "when_subject_verb",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["When the ", "{subject}", " ", "{verb_3sg}", ", everything changes."],
+    "bonus": 0.05
+  },
+  {
+    "name": "if_subject_verb",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["If the ", "{subject}", " ", "{verb_3sg}", ", what remains?"],
+    "bonus": 0.05
+  },
+  {
+    "name": "why_does_adjective_subject_verb",
+    "slots": [
+      {"name": "adjective", "pos": "adjective"},
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["Why does the ", "{adjective}", " ", "{subject}", " ", "{verb}", "?"],
+    "bonus": 0.04
+  },
+  {
+    "name": "what_does_subject_verb",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"}
+    ],
+    "tokens": ["What does the ", "{subject}", " ", "{verb}", " mean?"],
+    "bonus": 0.05
+  },
+  {
+    "name": "subject_is_not_adjective",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "adjective", "pos": "adjective"}
+    ],
+    "tokens": ["The ", "{subject}", " is not ", "{adjective}", "."],
+    "bonus": 0.04
+  },
+  {
+    "name": "subject_verb_what_subject_is",
+    "slots": [
+      {"name": "subject", "pos": "noun"},
+      {"name": "verb", "pos": "verb"},
+      {"name": "adjective", "pos": "adjective"}
+    ],
+    "tokens": ["The ", "{subject}", " ", "{verb_3sg}", " what is ", "{adjective}", "."],
+    "bonus": 0.03
+  }
+]

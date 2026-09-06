@@ -1,0 +1,44 @@
+name: Daily Epiphany Generator
+
+on:
+  schedule:
+    - cron: '47 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-epiphany:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run daily epiphany script
+        run: |
+          python generator/daily_epiphany.py
+
+      - name: Commit and push generated output
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md output/ output/epiphany.md
+          if [ -n "$(git status --porcelain README.md output/)" ]; then
+            git commit -m "Automated daily epiphany update"
+            git push
+          else
+            echo "No generated changes to commit."
+          fi

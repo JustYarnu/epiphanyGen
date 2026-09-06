@@ -1,0 +1,30 @@
+Available vocabulary domains:
+
+- aesthetic
+- architectural
+- biological
+- creative
+- cultural
+- economic
+- educational
+- emotional
+- environmental
+- ethical
+- geographical
+- historical
+- institutional
+- legal
+- linguistic
+- medical
+- personal
+- philosophical
+- political
+- psychological
+- religious
+- rural
+- scientific
+- social
+- spatial
+- technological
+- temporal
+- urban
