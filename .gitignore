@@ -6,3 +6,4 @@ __pycache__/
 # Logs
 debug/
 *.log
+report.json
