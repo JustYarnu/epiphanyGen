@@ -1,9 +1,9 @@
-# File:WLANL - mchangsp - Zenderkoffertje geheim agent Sjoerd Sjoerdsma (1).jpg
+# File:Maison 30 Boulevard Stalingrad - Choisy-le-Roi (FR94) - 2021-03-09 - 2.jpg
 
-![File:WLANL - mchangsp - Zenderkoffertje geheim agent Sjoerd Sjoerdsma (1).jpg](https://upload.wikimedia.org/wikipedia/commons/6/61/WLANL_-_mchangsp_-_Zenderkoffertje_geheim_agent_Sjoerd_Sjoerdsma_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![File:Maison 30 Boulevard Stalingrad - Choisy-le-Roi (FR94) - 2021-03-09 - 2.jpg](https://upload.wikimedia.org/wikipedia/commons/d/df/Maison_30_Boulevard_Stalingrad_-_Choisy-le-Roi_%28FR94%29_-_2021-03-09_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Artist:** <a rel="nofollow" class="external text" href="https://www.flickr.com/people/95941063@N00">Marc Chang Sing Pang</a>  
-**License:** [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)  
-**Source:** [File:WLANL - mchangsp - Zenderkoffertje geheim agent Sjoerd Sjoerdsma (1).jpg](1.2)  
+**Artist:** <a href="//commons.wikimedia.org/wiki/User:Chabe01" title="User:Chabe01">Chabe01</a>  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
+**Source:** [File:Maison 30 Boulevard Stalingrad - Choisy-le-Roi (FR94) - 2021-03-09 - 2.jpg](1.2)  
 **Search keywords:** random Wikimedia Commons
 
