@@ -1,9 +1,9 @@
-# File:Awarding Tatarstan Prize civil society institutions development (2022-11-05) 04.jpg
+# File:Robbie Maddison jump Albert Park 11 (4446385061).jpg
 
-![File:Awarding Tatarstan Prize civil society institutions development (2022-11-05) 04.jpg](https://upload.wikimedia.org/wikipedia/commons/2/27/Awarding_Tatarstan_Prize_civil_society_institutions_development_%282022-11-05%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![File:Robbie Maddison jump Albert Park 11 (4446385061).jpg](https://upload.wikimedia.org/wikipedia/commons/0/0c/Robbie_Maddison_jump_Albert_Park_11_%284446385061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Artist:** Марсель Бадыкшин  
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)  
-**Source:** [File:Awarding Tatarstan Prize civil society institutions development (2022-11-05) 04.jpg](1.2)  
+**Artist:** <a rel="nofollow" class="external text" href="https://www.flickr.com/people/28135215@N00">Tom Reynolds</a> from Melbourne, Australia  
+**License:** [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)  
+**Source:** [File:Robbie Maddison jump Albert Park 11 (4446385061).jpg](1.2)  
 **Search keywords:** random Wikimedia Commons
 
