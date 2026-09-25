@@ -1,9 +1,9 @@
-# File:Company Gate.jpg
+# File:Llansteffan Castle - geograph.org.uk - 2374994.jpg
 
-![File:Company Gate.jpg](https://upload.wikimedia.org/wikipedia/commons/9/94/Company_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![File:Llansteffan Castle - geograph.org.uk - 2374994.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Llansteffan_Castle_-_geograph.org.uk_-_2374994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Artist:** <a href="//commons.wikimedia.org/w/index.php?title=User:Janet728&amp;action=edit&amp;redlink=1" class="new" title="User:Janet728 (page does not exist)">Janet728</a>  
-**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
-**Source:** [File:Company Gate.jpg](1.2)  
+**Artist:** <a rel="nofollow" class="external text" href="https://www.geograph.org.uk/profile/21377">Jeremy Bolwell</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="//commons.wikimedia.org/wiki/File:Llansteffan_Castle_-_geograph.org.uk_-_2374994.jpg#P170" title="Edit this at Structured Data on Commons"><img alt="Edit this at Structured Data on Commons" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" width="10" height="10" class="mw-file-element" data-file-width="20" data-file-height="20"></a></span>  
+**License:** [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)  
+**Source:** [File:Llansteffan Castle - geograph.org.uk - 2374994.jpg](1.2)  
 **Search keywords:** random Wikimedia Commons
 
