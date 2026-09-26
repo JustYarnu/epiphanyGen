@@ -1,9 +1,9 @@
-# File:Llansteffan Castle - geograph.org.uk - 2374994.jpg
+# File:Kirche Kirch Grubenhagen 05 2018 20.jpg
 
-![File:Llansteffan Castle - geograph.org.uk - 2374994.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Llansteffan_Castle_-_geograph.org.uk_-_2374994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![File:Kirche Kirch Grubenhagen 05 2018 20.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9f/Kirche_Kirch_Grubenhagen_05_2018_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Artist:** <a rel="nofollow" class="external text" href="https://www.geograph.org.uk/profile/21377">Jeremy Bolwell</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="//commons.wikimedia.org/wiki/File:Llansteffan_Castle_-_geograph.org.uk_-_2374994.jpg#P170" title="Edit this at Structured Data on Commons"><img alt="Edit this at Structured Data on Commons" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" width="10" height="10" class="mw-file-element" data-file-width="20" data-file-height="20"></a></span>  
-**License:** [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)  
-**Source:** [File:Llansteffan Castle - geograph.org.uk - 2374994.jpg](1.2)  
+**Artist:** <a href="//commons.wikimedia.org/wiki/User:Concord" title="User:Concord">Concord</a>  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
+**Source:** [File:Kirche Kirch Grubenhagen 05 2018 20.jpg](1.2)  
 **Search keywords:** random Wikimedia Commons
 
