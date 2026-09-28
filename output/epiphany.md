@@ -1,9 +1,9 @@
-# File:2011-04-07-szczecin-by-RalfR-11.jpg
+# File:It River valley at the sunrise.jpg
 
-![File:2011-04-07-szczecin-by-RalfR-11.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3e/2011-04-07-szczecin-by-RalfR-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![File:It River valley at the sunrise.jpg](https://upload.wikimedia.org/wikipedia/commons/1/12/It_River_valley_at_the_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Artist:** <a href="//commons.wikimedia.org/wiki/User:Ralf_Roletschek" title="User:Ralf Roletschek">Ralf Roletschek</a> (<a href="//commons.wikimedia.org/wiki/User_talk:Ralf_Roletschek" title="User talk:Ralf Roletschek"><span class="signature-talk">talk</span></a>) - <a rel="nofollow" class="external text" href="http://www.fahrradmonteur.de">Fahrradtechnik auf fahrradmonteur.de</a>  
-**License:** [FAL](http://artlibre.org/licence/lal/en)  
-**Source:** [File:2011-04-07-szczecin-by-RalfR-11.jpg](1.2)  
+**Artist:** <a href="//commons.wikimedia.org/wiki/User:Stoxastikos" title="User:Stoxastikos">Edward Kosarev</a>  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
+**Source:** [File:It River valley at the sunrise.jpg](1.2)  
 **Search keywords:** random Wikimedia Commons
 
