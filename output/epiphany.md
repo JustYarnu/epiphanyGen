@@ -1,9 +1,9 @@
-# File:It River valley at the sunrise.jpg
+# File:Bayerische Vermessungsverwaltung - CIR20 - 753000 5388000.tif
 
-![File:It River valley at the sunrise.jpg](https://upload.wikimedia.org/wikipedia/commons/1/12/It_River_valley_at_the_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![File:Bayerische Vermessungsverwaltung - CIR20 - 753000 5388000.tif](https://upload.wikimedia.org/wikipedia/commons/5/5d/Bayerische_Vermessungsverwaltung_-_CIR20_-_753000_5388000.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Artist:** <a href="//commons.wikimedia.org/wiki/User:Stoxastikos" title="User:Stoxastikos">Edward Kosarev</a>  
-**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
-**Source:** [File:It River valley at the sunrise.jpg](1.2)  
+**Artist:** Bayerische Vermessungsverwaltung (Landesamt für Digitalisierung, Breitband und Vermessung)  
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)  
+**Source:** [File:Bayerische Vermessungsverwaltung - CIR20 - 753000 5388000.tif](1.2)  
 **Search keywords:** random Wikimedia Commons
 
