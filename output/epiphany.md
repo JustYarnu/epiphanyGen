@@ -1,9 +1,9 @@
-# File:Bayerische Vermessungsverwaltung - CIR20 - 753000 5388000.tif
+# File:Leica M6.jpg
 
-![File:Bayerische Vermessungsverwaltung - CIR20 - 753000 5388000.tif](https://upload.wikimedia.org/wikipedia/commons/5/5d/Bayerische_Vermessungsverwaltung_-_CIR20_-_753000_5388000.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![File:Leica M6.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e4/Leica_M6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Artist:** Bayerische Vermessungsverwaltung (Landesamt für Digitalisierung, Breitband und Vermessung)  
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)  
-**Source:** [File:Bayerische Vermessungsverwaltung - CIR20 - 753000 5388000.tif](1.2)  
+**Artist:** <a href="//commons.wikimedia.org/wiki/User:Noqqe" title="User:Noqqe">Noqqe</a>  
+**License:** [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)  
+**Source:** [File:Leica M6.jpg](1.2)  
 **Search keywords:** random Wikimedia Commons
 
