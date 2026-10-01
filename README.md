@@ -24,7 +24,7 @@
 
 ## Requirements
 
-- Windows, macOS, or Linux
+- Windows 
 - Python 3.10 or newer
 - Internet access (for Wikimedia Commons image retrieval)
 - Pillow 10 or newer
