@@ -8,7 +8,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Mapping
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlencode
+from urllib.parse import quote, urlencode
 from urllib.request import Request, urlopen
 
 
@@ -97,6 +97,11 @@ def _metadata_value(metadata: Mapping[str, Any], key: str, fallback: str = "") -
 	return str(value).strip() or fallback
 
 
+def _commons_page_url(title: str) -> str:
+	"""Build the Wikimedia Commons file page URL for a file title."""
+	return f"https://commons.wikimedia.org/wiki/{quote(title.replace(' ', '_'), safe=':_')}"
+
+
 def _search_image(
 	endpoint: str,
 	search_term: str,
@@ -148,8 +153,7 @@ def _search_image(
 				"author": _metadata_value(metadata, "Artist", "Unknown author"),
 				"license_name": license_name,
 				"license_url": license_url,
-				"page_url": _metadata_value(metadata, "CommonsMetadataExtension", "")
-					or f"https://commons.wikimedia.org/wiki/{page.get('title', '').replace(' ', '_')}",
+				"page_url": _commons_page_url(page.get("title", "Untitled Commons image")),
 			}
 		)
 	if candidates:
@@ -172,7 +176,7 @@ def _download_image(image: Mapping[str, str], search_term: str, timeout: float) 
 		raise RuntimeError(f"Image endpoint returned unexpected content type: {content_type}")
 	attribution = (
 		f"# {image['title']}\n\n"
-		f"![{image['title']}]({image_url})\n\n"
+		f"[View image on Wikimedia Commons]({image['page_url']})\n\n"
 		f"**Artist:** {image['author']}  \n"
 		f"**License:** [{image['license_name']}]({image['license_url']})  \n"
 		f"**Source:** [{image['title']}]({image['page_url']})  \n"
@@ -270,8 +274,7 @@ def fetch_random_image(settings_path: str | Path, seed: int | None = None) -> Im
 				"author": _metadata_value(metadata, "Artist", "Unknown author"),
 				"license_name": license_name,
 				"license_url": license_url,
-				"page_url": _metadata_value(metadata, "CommonsMetadataExtension", "")
-					or f"https://commons.wikimedia.org/wiki/{page.get('title', '').replace(' ', '_')}",
+				"page_url": _commons_page_url(page.get("title", "Untitled Commons image")),
 			}
 		)
 	if not candidates:
