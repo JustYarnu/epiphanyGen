@@ -1,9 +1,9 @@
-# File:Berwick-upon-Tweed (2022-03-25) 65.jpg
+# File:Mapillary (z3QWXTOEYPg6yj4Gucp71U) (frke) 2024-10-19 13H35mn45s000.jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Harappa_13_grey_stone_male_dancer_statuette.jpg)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mapillary_%28z3QWXTOEYPg6yj4Gucp71U%29_%28frke%29_2024-10-19_13H35mn45s000.jpg)
 
-**Artist:** <a href="//commons.wikimedia.org/wiki/User:Sic19" title="User:Sic19">Simon Cobb</a>  
-**License:** [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)  
-**Source:** [File:Harappa 13 grey stone male dancer statuette.jpg](https://commons.wikimedia.org/wiki/File:Harappa_13_grey_stone_male_dancer_statuette.jpg)  
+**Artist:** frke  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
+**Source:** [File:Mapillary (z3QWXTOEYPg6yj4Gucp71U) (frke) 2024-10-19 13H35mn45s000.jpg](https://commons.wikimedia.org/wiki/File:Mapillary_%28z3QWXTOEYPg6yj4Gucp71U%29_%28frke%29_2024-10-19_13H35mn45s000.jpg)  
 **Search keywords:** random Wikimedia Commons
 
