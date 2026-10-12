@@ -1,9 +1,9 @@
-# File:Tram stop Nádraží Vysočany.jpg
+# File:Кусково 21.jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tram_stop_N%C3%A1dra%C5%BE%C3%AD_Vyso%C4%8Dany.jpg)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D1%81%D0%BA%D0%BE%D0%B2%D0%BE_21.jpg)
 
-**Artist:** <a href="https://cs.wikipedia.org/wiki/User:%C5%A0J%C5%AF" class="extiw" title="cs:User:ŠJů">cs:ŠJů</a>  
-**License:** [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)  
-**Source:** [File:Tram stop Nádraží Vysočany.jpg](https://commons.wikimedia.org/wiki/File:Tram_stop_N%C3%A1dra%C5%BE%C3%AD_Vyso%C4%8Dany.jpg)  
+**Artist:** <a href="//commons.wikimedia.org/wiki/User:Ulaisaeva" title="User:Ulaisaeva">Ulaisaeva</a>  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
+**Source:** [File:Кусково 21.jpg](https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D1%81%D0%BA%D0%BE%D0%B2%D0%BE_21.jpg)  
 **Search keywords:** random Wikimedia Commons
 
