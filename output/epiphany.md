@@ -1,9 +1,9 @@
-# File:Tudela - Cine Moncayo 3.jpg
+# File:Baxter County, Arkansas montage.png
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tudela_-_Cine_Moncayo_3.jpg)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baxter_County%2C_Arkansas_montage.png)
 
-**Artist:** <a href="//commons.wikimedia.org/wiki/User:Zarateman" title="User:Zarateman">Zarateman</a>  
-**License:** [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)  
-**Source:** [File:Tudela - Cine Moncayo 3.jpg](https://commons.wikimedia.org/wiki/File:Tudela_-_Cine_Moncayo_3.jpg)  
+**Artist:** <a href="//commons.wikimedia.org/wiki/User:Brandonrush" title="User:Brandonrush">Brandonrush</a>  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
+**Source:** [File:Baxter County, Arkansas montage.png](https://commons.wikimedia.org/wiki/File:Baxter_County%2C_Arkansas_montage.png)  
 **Search keywords:** random Wikimedia Commons
 
