@@ -1,9 +1,9 @@
-# File:Baxter County, Arkansas montage.png
+# File:Steyr, Dunklhof, Arkadenhof (03).jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baxter_County%2C_Arkansas_montage.png)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Steyr%2C_Dunklhof%2C_Arkadenhof_%2803%29.jpg)
 
-**Artist:** <a href="//commons.wikimedia.org/wiki/User:Brandonrush" title="User:Brandonrush">Brandonrush</a>  
+**Artist:** <a rel="mw:WikiLink" href="https://commons.wikimedia.org/wiki/User:Palickap?action=edit&amp;redlink=1" title="User:Palickap (page does not exist)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["User:Palickap"]}}'>Palickap</a>  
 **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
-**Source:** [File:Baxter County, Arkansas montage.png](https://commons.wikimedia.org/wiki/File:Baxter_County%2C_Arkansas_montage.png)  
+**Source:** [File:Steyr, Dunklhof, Arkadenhof (03).jpg](https://commons.wikimedia.org/wiki/File:Steyr%2C_Dunklhof%2C_Arkadenhof_%2803%29.jpg)  
 **Search keywords:** random Wikimedia Commons
 
