@@ -1,9 +1,9 @@
-# File:Quarry railway line between Llanberis and Felinheli (1570922).jpg
+# File:Istanbul - Basilica Cistern - 01.JPG
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Quarry_railway_line_between_Llanberis_and_Felinheli_%281570922%29.jpg)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Istanbul_-_Basilica_Cistern_-_01.JPG)
 
-**Artist:** <bdi><a href="https://en.wikipedia.org/wiki/en:Geoff_Charles" class="extiw" title="w:en:Geoff Charles"><span title="Welsh photojournalist (1909-2002)">Geoff Charles</span></a></bdi>  
-**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
-**Source:** [File:Quarry railway line between Llanberis and Felinheli (1570922).jpg](https://commons.wikimedia.org/wiki/File:Quarry_railway_line_between_Llanberis_and_Felinheli_%281570922%29.jpg)  
+**Artist:** Unknown author  
+**License:** [CC BY-SA 2.1 es](https://creativecommons.org/licenses/by-sa/2.1/es/deed.en)  
+**Source:** [File:Istanbul - Basilica Cistern - 01.JPG](https://commons.wikimedia.org/wiki/File:Istanbul_-_Basilica_Cistern_-_01.JPG)  
 **Search keywords:** random Wikimedia Commons
 
