@@ -1,9 +1,9 @@
-# File:Banderamorindo.JPG
+# File:Buurtschap Hartel Spijkenisse 1963.jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Banderamorindo.JPG)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buurtschap_Hartel_Spijkenisse_1963.jpg)
 
-**Artist:** <a href="//commons.wikimedia.org/w/index.php?title=User:Michael_David_Reyes_Romero&amp;action=edit&amp;redlink=1" class="new" title="User:Michael David Reyes Romero (page does not exist)">Michael David Reyes Romero</a>  
-**License:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)  
-**Source:** [File:Banderamorindo.JPG](https://commons.wikimedia.org/wiki/File:Banderamorindo.JPG)  
+**Artist:** Ary Groeneveld  
+**License:** [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)  
+**Source:** [File:Buurtschap Hartel Spijkenisse 1963.jpg](https://commons.wikimedia.org/wiki/File:Buurtschap_Hartel_Spijkenisse_1963.jpg)  
 **Search keywords:** random Wikimedia Commons
 
