@@ -1,9 +1,9 @@
-# File:SH- Warren County Middle School (5683861142).jpg
+# File:2013 Cyprus trailer plate P 01406.jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SH-_Warren_County_Middle_School_%285683861142%29.jpg)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013_Cyprus_trailer_plate_P_01406.jpg)
 
-**Artist:** <a rel="nofollow" class="external text" href="https://www.flickr.com/people/37922399@N05">Virginia State Parks staff</a>  
-**License:** [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)  
-**Source:** [File:SH- Warren County Middle School (5683861142).jpg](https://commons.wikimedia.org/wiki/File:SH-_Warren_County_Middle_School_%285683861142%29.jpg)  
+**Artist:** <a href="//commons.wikimedia.org/wiki/User:Walser123" class="mw-redirect" title="User:Walser123">Walser123</a>  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
+**Source:** [File:2013 Cyprus trailer plate P 01406.jpg](https://commons.wikimedia.org/wiki/File:2013_Cyprus_trailer_plate_P_01406.jpg)  
 **Search keywords:** random Wikimedia Commons
 
