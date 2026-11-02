@@ -1,9 +1,9 @@
-# File:Mapillary (osmplus org) 2026-01-16 11H05M31S000 (901297762857345 at zUZwSMT6JjKHEiDI15kR7v).jpg
+# File:Oy Ford Ab n järjestämät autokilpailut Helsingissä 1937 (HK19670603-31917B).tif
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mapillary_%28osmplus_org%29_2026-01-16_11H05M31S000_%28901297762857345_at_zUZwSMT6JjKHEiDI15kR7v%29.jpg)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oy_Ford_Ab_n_j%C3%A4rjest%C3%A4m%C3%A4t_autokilpailut_Helsingiss%C3%A4_1937_%28HK19670603-31917B%29.tif)
 
-**Artist:** osmplus_org <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="//commons.wikimedia.org/wiki/File:Mapillary_(osmplus_org)_2026-01-16_11H05M31S000_(901297762857345_at_zUZwSMT6JjKHEiDI15kR7v).jpg#P170" title="Edit this at Structured Data on Commons"><img alt="Edit this at Structured Data on Commons" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" width="10" height="10" class="mw-file-element" data-file-width="20" data-file-height="20"></a></span>  
-**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
-**Source:** [File:Mapillary (osmplus org) 2026-01-16 11H05M31S000 (901297762857345 at zUZwSMT6JjKHEiDI15kR7v).jpg](https://commons.wikimedia.org/wiki/File:Mapillary_%28osmplus_org%29_2026-01-16_11H05M31S000_%28901297762857345_at_zUZwSMT6JjKHEiDI15kR7v%29.jpg)  
+**Artist:** <bdi><a href="https://www.wikidata.org/wiki/Q123271843" class="extiw" title="d:Q123271843"><span title="Finnish photographic studio">Aarne Pietinen Oy</span></a></bdi>  
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)  
+**Source:** [File:Oy Ford Ab n järjestämät autokilpailut Helsingissä 1937 (HK19670603-31917B).tif](https://commons.wikimedia.org/wiki/File:Oy_Ford_Ab_n_j%C3%A4rjest%C3%A4m%C3%A4t_autokilpailut_Helsingiss%C3%A4_1937_%28HK19670603-31917B%29.tif)  
 **Search keywords:** random Wikimedia Commons
 
