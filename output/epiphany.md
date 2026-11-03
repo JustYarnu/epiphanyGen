@@ -1,9 +1,9 @@
-# File:Oy Ford Ab n järjestämät autokilpailut Helsingissä 1937 (HK19670603-31917B).tif
+# File:Hegedűs Gyula utca 8. épület8.jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oy_Ford_Ab_n_j%C3%A4rjest%C3%A4m%C3%A4t_autokilpailut_Helsingiss%C3%A4_1937_%28HK19670603-31917B%29.tif)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Heged%C5%B1s_Gyula_utca_8._%C3%A9p%C3%BClet8.jpg)
 
-**Artist:** <bdi><a href="https://www.wikidata.org/wiki/Q123271843" class="extiw" title="d:Q123271843"><span title="Finnish photographic studio">Aarne Pietinen Oy</span></a></bdi>  
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)  
-**Source:** [File:Oy Ford Ab n järjestämät autokilpailut Helsingissä 1937 (HK19670603-31917B).tif](https://commons.wikimedia.org/wiki/File:Oy_Ford_Ab_n_j%C3%A4rjest%C3%A4m%C3%A4t_autokilpailut_Helsingiss%C3%A4_1937_%28HK19670603-31917B%29.tif)  
+**Artist:** <a href="//commons.wikimedia.org/w/index.php?title=User:12akd&amp;action=edit&amp;redlink=1" class="new" title="User:12akd (page does not exist)">12akd</a>  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
+**Source:** [File:Hegedűs Gyula utca 8. épület8.jpg](https://commons.wikimedia.org/wiki/File:Heged%C5%B1s_Gyula_utca_8._%C3%A9p%C3%BClet8.jpg)  
 **Search keywords:** random Wikimedia Commons
 
