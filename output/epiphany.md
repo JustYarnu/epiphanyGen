@@ -1,9 +1,9 @@
-# File:FA dgk5hls 32390 5692 2 nw.tif
+# File:RiviereGrandeCoude.jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FA_dgk5hls_32390_5692_2_nw.tif)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RiviereGrandeCoude.jpg)
 
-**Artist:** Geobasis.NRW / Bezirksregierung Köln / Landesbetrieb Information und Technik NRW Landesbetrieb IT.NRW  
-**License:** [dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0)  
-**Source:** [File:FA dgk5hls 32390 5692 2 nw.tif](https://commons.wikimedia.org/wiki/File:FA_dgk5hls_32390_5692_2_nw.tif)  
+**Artist:** <a href="//commons.wikimedia.org/wiki/User:Richard_Cot%C3%A9" title="User:Richard Coté">Richard Coté</a>  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
+**Source:** [File:RiviereGrandeCoude.jpg](https://commons.wikimedia.org/wiki/File:RiviereGrandeCoude.jpg)  
 **Search keywords:** random Wikimedia Commons
 
