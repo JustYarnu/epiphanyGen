@@ -1,9 +1,9 @@
-# File:Roma - Museo dell'Arte Classica - 3 - 2024-09-25 15-25-00 001.JPG
+# File:Vase MET DP235551.jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Roma_-_Museo_dell%27Arte_Classica_-_3_-_2024-09-25_15-25-00_001.JPG)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vase_MET_DP235551.jpg)
 
-**Artist:** <a href="//commons.wikimedia.org/w/index.php?title=User:Albarubescens&amp;action=edit&amp;redlink=1" class="new" title="User:Albarubescens (page does not exist)">Albarubescens</a>  
-**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)  
-**Source:** [File:Roma - Museo dell'Arte Classica - 3 - 2024-09-25 15-25-00 001.JPG](https://commons.wikimedia.org/wiki/File:Roma_-_Museo_dell%27Arte_Classica_-_3_-_2024-09-25_15-25-00_001.JPG)  
+**Artist:** <bdi><a href="https://en.wikipedia.org/wiki/en:Celia_Thaxter" class="extiw" title="w:en:Celia Thaxter"><span title="American writer (1835-1894)">Celia Thaxter</span></a></bdi>  
+**License:** [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)  
+**Source:** [File:Vase MET DP235551.jpg](https://commons.wikimedia.org/wiki/File:Vase_MET_DP235551.jpg)  
 **Search keywords:** random Wikimedia Commons
 
