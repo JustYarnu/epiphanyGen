@@ -1,9 +1,9 @@
-# File:Vase MET DP235551.jpg
+# File:Plenário do Senado (54485897609).jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vase_MET_DP235551.jpg)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_%2854485897609%29.jpg)
 
-**Artist:** <bdi><a href="https://en.wikipedia.org/wiki/en:Celia_Thaxter" class="extiw" title="w:en:Celia Thaxter"><span title="American writer (1835-1894)">Celia Thaxter</span></a></bdi>  
-**License:** [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)  
-**Source:** [File:Vase MET DP235551.jpg](https://commons.wikimedia.org/wiki/File:Vase_MET_DP235551.jpg)  
+**Artist:** <a rel="nofollow" class="external text" href="https://www.flickr.com/people/49143546@N06">Agência Senado</a> from Brasilia, Brazil  
+**License:** [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)  
+**Source:** [File:Plenário do Senado (54485897609).jpg](https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_%2854485897609%29.jpg)  
 **Search keywords:** random Wikimedia Commons
 
