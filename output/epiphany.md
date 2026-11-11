@@ -1,9 +1,9 @@
-# File:Plenário do Senado (54485897609).jpg
+# File:Exit No. 2 of Qunli Sta. of Suzhou Metro Line 7 20251130.jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_%2854485897609%29.jpg)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Exit_No._2_of_Qunli_Sta._of_Suzhou_Metro_Line_7_20251130.jpg)
 
-**Artist:** <a rel="nofollow" class="external text" href="https://www.flickr.com/people/49143546@N06">Agência Senado</a> from Brasilia, Brazil  
-**License:** [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)  
-**Source:** [File:Plenário do Senado (54485897609).jpg](https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_%2854485897609%29.jpg)  
+**Artist:** <a href="//commons.wikimedia.org/wiki/User:4084470_0.smil" title="User:4084470 0.smil">4084470 0.smil</a>  
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)  
+**Source:** [File:Exit No. 2 of Qunli Sta. of Suzhou Metro Line 7 20251130.jpg](https://commons.wikimedia.org/wiki/File:Exit_No._2_of_Qunli_Sta._of_Suzhou_Metro_Line_7_20251130.jpg)  
 **Search keywords:** random Wikimedia Commons
 
