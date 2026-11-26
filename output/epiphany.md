@@ -1,9 +1,9 @@
-# File:PicPatrimoineFredCRouet31016.jpg
+# File:Ferry terminal on Eriskay - geograph.org.uk - 334792.jpg
 
-[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PicPatrimoineFredCRouet31016.jpg)
+[View image on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ferry_terminal_on_Eriskay_-_geograph.org.uk_-_334792.jpg)
 
-**Artist:** <a href="//commons.wikimedia.org/wiki/User:PicPatrimoineFredC" title="User:PicPatrimoineFredC">PicPatrimoineFredC</a>  
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)  
-**Source:** [File:PicPatrimoineFredCRouet31016.jpg](https://commons.wikimedia.org/wiki/File:PicPatrimoineFredCRouet31016.jpg)  
+**Artist:** <a rel="nofollow" class="external text" href="https://www.geograph.org.uk/profile/10671">Les Dunford</a>  
+**License:** [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)  
+**Source:** [File:Ferry terminal on Eriskay - geograph.org.uk - 334792.jpg](https://commons.wikimedia.org/wiki/File:Ferry_terminal_on_Eriskay_-_geograph.org.uk_-_334792.jpg)  
 **Search keywords:** random Wikimedia Commons
 
